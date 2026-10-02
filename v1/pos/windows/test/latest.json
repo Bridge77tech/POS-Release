@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "version": "99.0.0",
+  "url": "https://github.com/Bridge77tech/POS-Release/releases/download/test-fixture-v0/proxypos-updater-test-fixture.txt",
+  "sha256": "e34e96a1a1e9ba91f313d697257a74ba1fb36070eff681394873b14b36126ca8",
+  "size": 84,
+  "notes": "Updater test fixture. Not an installer, and no till reads this file."
+}
