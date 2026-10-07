@@ -1,8 +1,8 @@
 {
     "schema":  1,
-    "version":  "1.2.2",
-    "url":  "https://github.com/Bridge77tech/POS-Release/releases/download/v1.2.2/ProxyPOS-1.2.2.exe",
-    "sha256":  "9b903b6db616e72d580f883300cd1960884b802690f918a942285992461ac935",
-    "size":  29813841,
+    "version":  "1.2.3",
+    "url":  "https://github.com/Bridge77tech/POS-Release/releases/download/v1.2.3/ProxyPOS-1.2.3.exe",
+    "sha256":  "3fc6f88ed218b143142a8ebe5794d2fa4baff3638b23529c1d2c283dea1ba38c",
+    "size":  29813629,
     "notes":  ""
 }
